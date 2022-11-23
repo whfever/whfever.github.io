@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trackpoint | UP</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Trackpoint | UP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 24 Nov 2022 01:34:27 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 20 Aug 2022 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;span  class=font1 &gt;
+    陌生人您好 ，欢迎在我的博客留下 👣
+    &lt;/span&gt;
+
+
+&lt;style&gt;
+    .font1{
+        color:rgb(21, 195, 181);
+        line-height:15px;
+         
+        background-image: linear-gradient( 135deg, #FFD3A5 10%, #FD6585 100%);
+     
+    }
+&lt;/style&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/image/1988.jpg&#34; alt=&#34;1988&#34;&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Picgo</title>
+      <link>http://localhost:1313/post/picgo/</link>
+      <pubDate>Thu, 24 Nov 2022 01:34:27 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/picgo/</guid>
+      
+        <description>&lt;h2 id=&#34;设置&#34;&gt;设置&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CDN加速&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://cdn.jsdelivr.net/gh/用户名/仓库名
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/whfever/figure//montain.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;改ip&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;C:\Windows\System32\drivers\etc\hosts
+185.199.108.133 raw.githubusercontent.com
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/whfever/figure/main/2022%E9%98%85%E8%AF%BB%E7%9A%84%E9%80%BB%E8%BE%91.png&#34; alt=&#34;阅读&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;img1&#34;&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/whfever/figure/2022/image-20221124052043807.png&#34; alt=&#34;image-20221124052043807&#34; style=&#34;zoom:25%;text-align: center;&#34; /&gt;
+&lt;/div&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/post/hugo/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/hugo/</guid>
+      
+        <description>&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;
+&lt;p&gt;Download the appropriate version for your platform from Hugo Releases. Once downloaded, the binary can be run from anywhere. Ideally, you should install it somewhere in your PATH for easy use. /usr/local/bin is the most probable location.&lt;/p&gt;
+&lt;h2 id=&#34;create-a-new-site&#34;&gt;Create a New Site&lt;/h2&gt;
+&lt;p&gt;hugo new site myBlog
+The above will create a new Hugo site in a folder named myBlog.&lt;/p&gt;
+&lt;h2 id=&#34;use-theme&#34;&gt;Use Theme&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cd myBlog
+git clone https://github.com/xianmin/hugo-theme-jane.git --depth=1 themes/jane
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Copy the example site content:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cp -r themes/jane/exampleSite/content ./
+Copy the default site config:
+
+cp themes/jane/exampleSite/config.toml ./
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Take a look at the example site:&lt;/p&gt;
+&lt;h2 id=&#34;start&#34;&gt;start&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Open http://localhost:1313/ , you will see your site running with the example content.&lt;/p&gt;
+&lt;h2 id=&#34;hightlight-code&#34;&gt;hightlight code&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    &amp;lt;link href=&amp;#34;https://cdn.bootcss.com/highlight.js/10.0.1/styles/monokai.min.css&amp;#34; rel=&amp;#34;stylesheet&amp;#34;&amp;gt;
+    &amp;lt;script src=&amp;#34;https://cdn.bootcss.com/highlight.js/10.0.1/highlight.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt;
+    &amp;lt;script&amp;gt;hljs.initHighlightingOnLoad();&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;图片&#34;&gt;图片&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;![hugo](/image/example.jpg)
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;shortcode&#34;&gt;shortcode&lt;/h2&gt;
+&lt;p&gt;bilibili&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;`&lt;iframe
+    src=&#34;//player.bilibili.com/player.html?bvid=BV1464y187dL&amp;page=1&#34;
+    scrolling=&#34;no&#34;
+    height=&#34;768px&#34;
+    width=&#34;1024px&#34;
+    frameborder=&#34;no&#34;
+    framespacing=&#34;0&#34;
+    allowfullscreen=&#34;true&#34;
+&gt;
+&lt;/iframe&gt;
+`
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;goldmark&#34;&gt;goldmark&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;config.toml&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[markup]
+  defaultMarkdownHandler = &amp;#34;goldmark&amp;#34;
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+&lt;/code&gt;&lt;/pre&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
