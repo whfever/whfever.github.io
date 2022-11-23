@@ -1,71 +1,71 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://whfever.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://whfever.github.io//about/</loc>
     <lastmod>2022-08-20T21:38:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/picgo/</loc>
+    <loc>https://whfever.github.io//post/picgo/</loc>
     <lastmod>2022-11-24T01:34:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://whfever.github.io//post/</loc>
     <lastmod>2022-11-24T01:34:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://whfever.github.io//</loc>
     <lastmod>2022-11-24T01:34:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://whfever.github.io//categories/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/hugo/</loc>
+    <loc>https://whfever.github.io//post/hugo/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://whfever.github.io//tags/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://whfever.github.io//tags/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://whfever.github.io//categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://whfever.github.io//series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
