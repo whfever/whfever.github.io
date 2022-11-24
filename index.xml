@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trackpoint | UPgit@github.com:whfever/whfever.github.io.git</title>
-    <link>https://whfever.github.io//</link>
-    <description>Recent content on Trackpoint | UPgit@github.com:whfever/whfever.github.io.git</description>
+    <title>Trackpoint | UP</title>
+    <link>https://whfever.github.io/</link>
+    <description>Recent content on Trackpoint | UP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 24 Nov 2022 01:34:27 +0800</lastBuildDate>
     
-        <atom:link href="https://whfever.github.io//index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://whfever.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>https://whfever.github.io//about/</link>
+      <link>https://whfever.github.io/about/</link>
       <pubDate>Sat, 20 Aug 2022 21:38:52 +0800</pubDate>
       
-      <guid>https://whfever.github.io//about/</guid>
+      <guid>https://whfever.github.io/about/</guid>
       
-        <description>&lt;span  class=font1 &gt;
-    陌生人您好 ，欢迎在我的博客留下 👣
-    &lt;/span&gt;
-
-
-&lt;style&gt;
-    .font1{
-        color:rgb(21, 195, 181);
-        line-height:15px;
-         
-        background-image: linear-gradient( 135deg, #FFD3A5 10%, #FD6585 100%);
-     
-    }
-&lt;/style&gt;
-
+        <description>&lt;p&gt;陌生人您好 ，欢迎在我的博客留下 👣&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/whfever/figure/2022/1988.jpg&#34; alt=&#34;1988&#34;&gt;&lt;/p&gt;
 </description>
       
@@ -40,10 +26,10 @@
     
     <item>
       <title>Picgo</title>
-      <link>https://whfever.github.io//post/picgo/</link>
+      <link>https://whfever.github.io/post/picgo/</link>
       <pubDate>Thu, 24 Nov 2022 01:34:27 +0800</pubDate>
       
-      <guid>https://whfever.github.io//post/picgo/</guid>
+      <guid>https://whfever.github.io/post/picgo/</guid>
       
         <description>&lt;h2 id=&#34;设置&#34;&gt;设置&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -66,10 +52,10 @@
     
     <item>
       <title>Hugo</title>
-      <link>https://whfever.github.io//post/hugo/</link>
+      <link>https://whfever.github.io/post/hugo/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://whfever.github.io//post/hugo/</guid>
+      <guid>https://whfever.github.io/post/hugo/</guid>
       
         <description>&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;
 &lt;p&gt;Download the appropriate version for your platform from Hugo Releases. Once downloaded, the binary can be run from anywhere. Ideally, you should install it somewhere in your PATH for easy use. /usr/local/bin is the most probable location.&lt;/p&gt;
